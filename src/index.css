@@ -1,0 +1,14 @@
+body {
+  margin: unset;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
